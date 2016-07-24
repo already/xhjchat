@@ -3,6 +3,7 @@ http://blog.jamesdbloom.com/JVMInternals.html<br>
 http://ifeve.com/java-synchronized/ （mark字段详细）
 
 mat<br>
+http://www.eclipse.org/mat/<br>
 http://visualvm.java.net/oqlhelp.html<br>
 http://wiki.eclipse.org/MemoryAnalyzer
 
