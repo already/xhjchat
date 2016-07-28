@@ -1,6 +1,6 @@
 jvm<br>
 http://blog.jamesdbloom.com/JVMInternals.html<br>
-http://ifeve.com/java-synchronized/ （mark字段详细）
+http://ifeve.com/java-synchronized/
 
 mat<br>
 http://www.eclipse.org/mat/<br>
