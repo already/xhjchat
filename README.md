@@ -10,3 +10,6 @@ http://wiki.eclipse.org/MemoryAnalyzer
 Classmexer<br>
 https://www.ibm.com/developerworks/cn/java/j-lo-jse61/<br>
 http://www.javamex.com/classmexer/
+
+源码<br>
+http://git.lianjia.com/zhouqin/object-analyzer.git
